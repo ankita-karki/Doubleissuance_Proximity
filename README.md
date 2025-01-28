@@ -10,14 +10,14 @@ This repository explores how proximity impacts project overlaps by applying buff
 
 ## Project Maps
 ### Buffer analysis in Africa region
-<div align="center">
+<div align="left">
   <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Africa%20.png?raw=true">
 </div>
 
 *Map showing Buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Africa*
 
 ### Buffer analysis in Asia region
-<div align="center">
+<div align="left">
   <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Asia.png?raw=true">
 </div>
 
