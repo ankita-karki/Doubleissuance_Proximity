@@ -13,9 +13,9 @@ This repository explores how proximity impacts project overlaps by applying buff
 ![Zambia Map](https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Zambia.png?raw=true)
 *Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Zambia region*
 
-### Buffer analysis in Zambia
-![Asia Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Asia.png?raw=true)
-*Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Zambia region*
+### Buffer analysis in Mozambique
+![Mozamique](https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Mozambique.png?raw=true)
+*Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Mozambique region*
 
 ### Buffer analysis in Zambia
 ![CentralAmerica Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_CentralAmerica.png?raw=true)
