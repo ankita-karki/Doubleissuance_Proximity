@@ -37,7 +37,7 @@ This repository explores how proximity impacts project overlaps by applying buff
 * CSV files with overlap percentages and statistics
 
 ## Citation
-* If you use this repository, kindly cite:
+If you use this repository, kindly cite:
 * Master's Thesis: "Assessing Double Issuance between Avoided Deforestation and Efficient Cookstove Projects: A Geospatial Analysis Approach."
 * Author: Ankita Karki
 * Institution: Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
