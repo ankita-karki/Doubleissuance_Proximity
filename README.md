@@ -9,15 +9,15 @@ This repository explores how proximity impacts project overlaps by applying buff
 - **Proximity Visualization**: Show how overlap increases with larger buffer zones.
 
 ## Project Maps
-### VCS Africa Region
-![Africa Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Africa.png?raw=true)
-*Map showing project overlaps between VCS cookstove and VCS Avoided deforestation projects in Africa region*
+### Buffer analysis in Zambia
+![Zambia Map](https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Zambia.png?raw=true)
+*Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Zambia region*
 
-### VCS Asia Region
+### Buffer analysis in Zambia
 ![Asia Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_Asia.png?raw=true)
-*Map showing project overlaps between VCS cookstove and VCS Avoided deforestation projects in Asia region*
+*Map showing buffer analysis between VCS Efficient Cookstove Projects and VCS Avoided Deforestation (AD) projects in Zambia region*
 
-### Central America Region
+### Buffer analysis in Zambia
 ![CentralAmerica Overlap Map](https://github.com/ankita-karki/Doubleissuance_Overlap/blob/main/output_maps/VCS_CentralAmerica.png?raw=true)
 *Map showing project overlaps in VCS cookstove and VCS Avoided deforestation projects in Central America region*
 
