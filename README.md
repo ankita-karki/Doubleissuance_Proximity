@@ -5,8 +5,8 @@ This repository explores how proximity impacts project overlaps by applying buff
 
 ## Key Features
 * **Buffer Analysis**: Understand spatial relationships between projects.
-- **Statistical Analysis**: Perform t-tests to measure the impact of buffer distances on overlaps.
-- **Proximity Visualization**: Show how overlap increases with larger buffer zones.
+* **Statistical Analysis**: Perform t-tests to measure the impact of buffer distances on overlaps.
+* **Proximity Visualization**: Show how overlap increases with larger buffer zones.
 
 ## Project Maps
 ### Buffer analysis in Africa region
