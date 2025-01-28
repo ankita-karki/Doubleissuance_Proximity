@@ -9,21 +9,15 @@ This repository explores how proximity impacts project overlaps by applying buff
 - **Proximity Visualization**: Show how overlap increases with larger buffer zones.
 
 ## Project Maps
-### Buffer analysis in Zambia
+### Buffer analysis in Africa region
 <div align="center">
-  <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Zambia.png?raw=true" alt="Zambia Map">
+  <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Africa%20.png?raw=true">
 </div>
 
 ### Buffer analysis in Mozambique
 <div align="center">
   <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Mozambique.png?raw=true" alt="Zambia Map">
 </div>
-
-### Buffer analysis in Cambodia
-<div align="center">
-  <img src="https://github.com/ankita-karki/Doubleissuance_Proximity/blob/main/output_maps/Cambodia.png?raw=true" alt="Zambia Map">
-</div>
-
 
 ## Tools and Technologies
 * **R**: For geospatial data processing and analysis and  for advanced spatial visualizations
