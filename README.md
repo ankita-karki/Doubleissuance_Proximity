@@ -1,4 +1,4 @@
-# Proximity Analysis
+# Assessing Proximity-Driven Double Issuance Risk
 
 ## Overview
 This repository explores how proximity impacts project overlaps by applying buffer distances (5 km, 10 km, and 15 km) around efficient cookstove projects. The goal is to assess the risk of double issuance that undermines carbon market integrity.
